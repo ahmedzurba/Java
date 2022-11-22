@@ -1,0 +1,1 @@
+/usr/lib/jvm/java-8-openjdk-amd64/bin/java -Djava.security.policy=java.policy.applet -Dfile.encoding=UTF-8 -classpath ../core.jar:../jl1.0.jar:../jsminim.jar:../minim.jar:../mp3spi1.9.4.jar:../tritonus_aos.jar:../tritonus_share.jar:. sun.applet.AppletViewer QUEENS.html
